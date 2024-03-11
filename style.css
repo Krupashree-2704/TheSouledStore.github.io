@@ -1,5 +1,6 @@
 body
 {
+    overflow-x: hidden;
     font-family: 'Source Sans 3', sans-serif;
     width: 100%;
     overflow-x: none;
